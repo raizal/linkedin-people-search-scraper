@@ -1,0 +1,19 @@
+{
+  "name": "linkedin-people-search-scraper",
+  "version": "0.1.0",
+  "description": "Crawling linkedin people search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Raizal I.N. Pregnanta",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}

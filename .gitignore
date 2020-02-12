@@ -1,0 +1,7 @@
+.idea/
+screenshots/*.png
+*.iml
+*.lock
+*-lock.json
+hasil-*.json
+node_modules/
