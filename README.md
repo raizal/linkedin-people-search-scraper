@@ -16,13 +16,15 @@ $ yarn install
 ### How to use
 
 ###### command
-#
+
 ```sh
 $ yarn start "keyword" page cookie
 ```
 
 keyword = your search keyword
+
 page =  how many page you want to open
+
 cookie = your login cookie
 
 To use this, you need to have your Linkedin cookies.
@@ -35,7 +37,7 @@ To use this, you need to have your Linkedin cookies.
 - find item with name 'li_at', copy the value
 
 ###### Example Usage: 
-#
+
 ```sh
 $ yarn start "javascript" 10 "ASDASJNDKASNDKJN!@#!@#(!@*($*!IJSADKASLKDLAKSDLJn)""
 ```
